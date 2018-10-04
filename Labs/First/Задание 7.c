@@ -1,5 +1,4 @@
-// Автор Валерия Решетникова
-// https://vk.com/leriya.resh
+
 #include <stdio.h> 
 
 int main() 
